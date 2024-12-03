@@ -75,9 +75,9 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 23px;
+    padding: 34px;
     flex-grow: 1;
-    width: 450%;
+    width: 550%;
 }
 
 /* Lesson card styling */
